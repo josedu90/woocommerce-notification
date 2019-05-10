@@ -1,0 +1,1004 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Notification Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 17:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/woocommerce-notification.php:45
+msgid ""
+"Please install WooCommerce and active. WooCommerce Notification is going to "
+"working."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:120
+msgid "Settings"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "WooCommerce Notification"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "Woo Notification"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:64
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:71
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:137
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:145
+msgid "Click"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:280
+msgid "WooCommerce Notification Reporting"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:282
+msgid "Clicks by date"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:283
+msgid "Clicks by product"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:290
+msgid "From"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:294
+msgid "To"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:298
+msgid "SUBMIT"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:307
+msgid "Top Click"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:310
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:266
+msgid "Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:311
+msgid "Clicked"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:351
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:352
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:281
+msgid "Report"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:251
+msgid "WooCommerce Notification Settings"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:257
+msgid "General"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:260
+msgid "Design"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:263
+msgid "Messages"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:269
+msgid "Product Detail"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:272
+msgid "Time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:275
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1525
+msgid "Sound"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:278
+msgid "Assign"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:284
+msgid "Update"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:294
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1511
+msgid "Enable"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:310
+msgid "Mobile"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:321
+msgid "Notification will show on mobile and responsive."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:335
+msgid "Show Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:341
+msgid "Get from Billing"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:343
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:593
+msgid "Select Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:345
+msgid "Latest Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:347
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:373
+msgid "Select Categories"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:349
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:352
+msgid ""
+"You can arrange product order or special product which you want to up-sell."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:357
+msgid "Out-of-stock products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:367
+msgid "Turn on to show out-of-stock products on notifications."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:381
+msgid "Please select category"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:403
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:470
+msgid "Exclude Products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:410
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:477
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:601
+msgid "Please select products"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:453
+msgid "These products will not display on notification."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:458
+msgid "Product limit"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:465
+msgid "Product quantity will be got in list latest products."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:522
+msgid "These products will not show on notification."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:527
+msgid "External link"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:537
+msgid "Working with  External/Affiliate product. Product link is product URL."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:542
+msgid "Order Time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:555
+msgid "Hours"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:557
+msgid "Days"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:559
+msgid "Minutes"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:563
+msgid "Products in this recently time will get from order.  "
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:568
+msgid "Order Status"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:647
+msgid "Virtual First Name"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:656
+msgid ""
+"Virtual first name what will show on notification. Each first name on a line."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:703
+msgid "Virtual Time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:709
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1124
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:873
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1154
+msgid "hours"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:712
+msgid "Time will auto get random in this time threshold ago."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:717
+msgid "Address"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:721
+msgid "Auto Detect"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:723
+msgid "Virtual"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:726
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:731
+msgid "Virtual City"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:739
+msgid ""
+"Virtual city name what will show on notification. Each city name on a line."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:786
+msgid "Virtual Country"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:792
+msgid "Virtual country name what will show on notification."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:840
+msgid "Product image size"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:848
+msgid "shop_thumbnail"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:851
+msgid "shop_catalog"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:854
+msgid "shop_single"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:858
+msgid "Image size will get form your WordPress site."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:863
+msgid "Non Ajax"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:873
+msgid ""
+"Load popup will not use ajax. Your site will be load faster. It creates "
+"cache. It is not working with Get product from Billing feature and options "
+"of Product detail tab."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:886
+msgid "Run single product"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:896
+msgid ""
+"Notification will only display current product in product detail page that "
+"they are viewing."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:901
+msgid "Notification show"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:908
+msgid "Current product"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:910
+msgid "Products in the same category"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:913
+msgid ""
+"In product single page, Notification can only display current product or "
+"other products in the same category."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:918
+msgid "Show variation"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:928
+msgid "Show variation instead of product variable."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:942
+msgid "Highlight color"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:953
+msgid "Text color"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:965
+msgid "Background color"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:976
+msgid "Templates"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:986
+msgid "None"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1013
+msgid "Image Position"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1019
+msgid "Left"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1021
+msgid "Right"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1027
+msgid "Position"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1041
+msgid "Bottom left"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1054
+msgid "Bottom right"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1066
+msgid "Top left"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1078
+msgid "Top right"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1087
+msgid "Border radius"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1094
+msgid "px"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1102
+msgid "Show Close Icon"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1117
+msgid "Time close"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1132
+msgid "Image redirect"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1143
+msgid "When click image, you will redirect to product single page."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1149
+msgid "Link target"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1160
+msgid "Open link on new tab."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1167
+msgid "Message display effect"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1176
+msgid "bounceIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1178
+msgid "bounceInDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1180
+msgid "bounceInLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1182
+msgid "bounceInRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1184
+msgid "bounceInUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1188
+msgid "fadeIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1190
+msgid "fadeInDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1192
+msgid "fadeInDownBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1194
+msgid "fadeInLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1196
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1198
+msgid "fadeInRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1200
+msgid "fadeInRightBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1202
+msgid "fadeInUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1204
+msgid "fadeInUpBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1208
+msgid "flipInX"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1210
+msgid "flipInY"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1214
+msgid "lightSpeedIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1218
+msgid "rotateIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1220
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1222
+msgid "rotateInDownRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1224
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1226
+msgid "rotateInUpRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1230
+msgid "slideInUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1232
+msgid "slideInDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1234
+msgid "slideInLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1236
+msgid "slideInRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1240
+msgid "zoomIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1242
+msgid "zoomInDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1244
+msgid "zoomInLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1246
+msgid "zoomInRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1248
+msgid "zoomInUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1252
+msgid "rollIn"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1260
+msgid "Message hidden effect"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1269
+msgid "bounceOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1271
+msgid "bounceOutDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1273
+msgid "bounceOutLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1275
+msgid "bounceOutRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1277
+msgid "bounceOutUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1281
+msgid "fadeOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1283
+msgid "fadeOutDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1285
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1287
+msgid "fadeOutLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1289
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1291
+msgid "fadeOutRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1293
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1295
+msgid "fadeOutUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1297
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1301
+msgid "flipOutX"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1303
+msgid "flipOutY"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1307
+msgid "lightSpeedOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1311
+msgid "rotateOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1313
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1315
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1317
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1319
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1323
+msgid "slideOutUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1325
+msgid "slideOutDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1327
+msgid "slideOutLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1329
+msgid "slideOutRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1333
+msgid "zoomOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1335
+msgid "zoomOutDown"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1337
+msgid "zoomOutLeft"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1339
+msgid "zoomOutRight"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1341
+msgid "zoomOutUp"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1345
+msgid "rollOut"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1353
+msgid "Custom CSS"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1403
+msgid "Loop"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1416
+msgid "Next time display"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1423
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1464
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1479
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1495
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:887
+msgid "seconds"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1426
+msgid "Time to show next notification "
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1431
+msgid "Notification per page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1437
+msgid "Number of notifications on a page."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1442
+msgid "Initial time random"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1452
+msgid "Initial time will be random from 0 to current value."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1457
+msgid "Minimum initial delay time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1467
+msgid "Time will be random from Initial delay time min to Initial time."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1472
+msgid "Initial delay"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1482
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1488
+msgid "Display time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1498
+msgid "Time your notification display."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1538
+msgid "Please select sound. Notification rings when show."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1551
+msgid "Message purchased"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1621
+msgid "Remove"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1628
+msgid "Add New"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1633
+msgid "Customer's first name"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1637
+msgid "Customer's city"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1641
+msgid "Customer's state"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1645
+msgid "Customer's country"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1649
+msgid "Product title"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1653
+msgid "Product title with link"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1657
+msgid "Time after purchase"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1661
+msgid "Use custom shortcode"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1679
+msgid "Custom"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1687
+msgid "This is {custom} shortcode content."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1740
+msgid "Min Number"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1750
+msgid "Max number"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1757
+msgid "Number will random from Min number to Max number"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1770
+msgid "Home page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1780
+msgid "Turn on is hidden notification on Home page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1785
+msgid "Checkout page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1795
+msgid "Turn on is hidden notification on Checkout page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1800
+msgid "Cart page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1810
+msgid "Turn on is hidden notification on Cart page"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1815
+msgid "Conditional Tags"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1818
+msgid "eg: !is_page(array(34,98,73))"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1823
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1836
+msgid "Save Logs"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1850
+msgid "History time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1857
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:864
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1152
+msgid "days"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1860
+msgid "Logs will be saved at "
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1860
+msgid " in time"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1873
+msgid "Auto Update Key"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1880
+msgid ""
+"Please fill your key what you get from https://villatheme.com/my-download. "
+"You can auto update WooCommerce Notification plugin. See guide https:"
+"//villatheme.com/knowledge-base/how-to-use-auto-update-feature/"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1888
+msgid "Save"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/settings.php:1892
+msgid "Save & Check Key"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:19
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:99
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"VI_WNOTIFICATION_CACHE</code>."
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:866
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1151
+msgid "day"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:875
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1153
+msgid "hour"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:882
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1156
+msgid "minutes"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:884
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1155
+msgid "minute"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:890
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1158
+msgid "a few seconds"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:996
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1149
+msgid "About"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:996
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1150
+msgid "ago"
+msgstr ""
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1157
+msgid "secs"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Notification Premium"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr ""

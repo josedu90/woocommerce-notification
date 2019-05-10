@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Notification Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-24 09:21+0000\n"
+"POT-Revision-Date: Mon Jun 06 2016 16:44:15 GMT+0700 (SE Asia Standard Time)"
+"\n"
+"PO-Revision-Date: 2018-10-24 09:21+0000\n"
+"Last-Translator: admin <toidoi_tiamo@yahoo.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/woocommerce-notification.php:43
+msgid ""
+"Please install WooCommerce and active. WooCommerce Notification is going to "
+"working."
+msgstr ""
+"Пожалуйста, установите WooCommerce и активируйте. WooCommerce Notification "
+"будет работать."
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:120
+msgid "Settings"
+msgstr "Настройки"
+
+#. Name of the plugin
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "WooCommerce Notification"
+msgstr "WooCommerce Notification"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "Woo Notification"
+msgstr "Woo Notification"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:64
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:71
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:137
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:145
+msgid "Click"
+msgstr "Клики "
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:267
+msgid "WooCommerce Notification Reporting"
+msgstr "Отчет WooCommerce Notification "
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:269
+msgid "Clicks by date"
+msgstr "Клики по дате"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:270
+msgid "Clicks by product"
+msgstr "Клик по продукту "
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:277
+msgid "From"
+msgstr "С"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:281
+msgid "To"
+msgstr "по"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:285
+msgid "SUBMIT"
+msgstr "Выбрать"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:294
+msgid "Top Click"
+msgstr "ТОП Кликов"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:297
+msgid "Products"
+msgstr "Продукты"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:298
+msgid "Clicked"
+msgstr "Кликов"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:338
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:339
+msgid "Report"
+msgstr "Отчет"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:19
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:99
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr "Статус системы"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr "Каталог журналов с возможностью записи"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"VI_WNOTIFICATION_CACHE</code>."
+msgstr ""
+"Чтобы разрешить ведение журнала, сделайте <code>%s</code> доступным для "
+"записи или определите собственный <code>VI_WNOTIFICATION_CACHE</code>."
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr "PHP лимит времени "
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr "Лимит памяти"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:810
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1115
+msgid "days"
+msgstr "дней"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:812
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1114
+msgid "day"
+msgstr "день"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:819
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1117
+msgid "hours"
+msgstr "часов"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:821
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1116
+msgid "hour"
+msgstr "час"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:828
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1119
+msgid "minutes"
+msgstr "минуты"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:830
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1118
+msgid "minute"
+msgstr "минут"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:833
+msgid "seconds"
+msgstr "секунд"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:836
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1121
+msgid "a few seconds"
+msgstr "несколько секунд"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:942
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1112
+msgid "About"
+msgstr "Около"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:942
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1113
+msgid "ago"
+msgstr "назад"
+
+#: Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1120
+msgid "secs"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Notification Premium"
+msgstr "WooCommerce Notification Premium"
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+"Увеличьте коэффициент конверсии, выделив других клиентов, которые купили "
+"продукты."
+
+#. URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr "Andy Ha (villatheme.com)"
